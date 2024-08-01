@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50ed5cdd-30e7-4641-a3ac-68e10be556ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProyectoWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWeb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWeb/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWeb/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWeb/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWeb/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoWebApp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="50ed5cdd-30e7-4641-a3ac-68e10be556ec" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.pro.customization.django.DjangoModulesConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ProyectoWeb" type="Python.DjangoServer" factoryName="Django server">
       <module name="ProyectoWeb" />
@@ -108,8 +90,17 @@
       <option name="presentableId" value="Default" />
       <updated>1722481498737</updated>
       <workItem from="1722481499667" duration="798000" />
-      <workItem from="1722482310511" duration="19000" />
+      <workItem from="1722482310511" duration="755000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1722482389448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722482389448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
