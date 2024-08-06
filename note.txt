@@ -1,0 +1,10 @@
+Agregando texto
+\nAgregando texto
+Agregando texto
+\nAgregando texto
+ \nAgregando texto
+
+Hola\nQue tal
+Hola\rQue tal
+Hola
+Que tal
